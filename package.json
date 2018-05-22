@@ -1,5 +1,5 @@
 {
-  "name": "elastigirl",
+  "name": "@autofleet/elastigirl",
   "version": "1.0.0",
   "description": "Get config from remote json - auto cache, update and placeholders",
   "main": "index.js",
